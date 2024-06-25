@@ -14,6 +14,7 @@ This repo contains all the necessary files to build the .uf2 file to flash on th
 
 I went with the ProMicro NRF52840
 
+## [Releases](https://github.com/curserat/yampad-module/releases)
 ### Features
 - Bluetooth
 - OLED Display
