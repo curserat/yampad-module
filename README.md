@@ -29,4 +29,4 @@ RGB support is soon to be added
 ## Resources
 The [YamPAD](https://hackaday.io/project/163491-yampad-feature-packed-open-source-macropad) is an open source macropad by [Mattia Dal Ben](https://github.com/mattdibi)
 
-[ZMK](https://zmk.dev/) Firmware is an open source (MIT) keyboard firmware built on the [Zephyr™ Project](https://zephyrproject.org/) Real Time Operating System (RTOS). ZMK's goal is to provide a modern, wireless, and powerful firmware free of licensing issues.
+[ZMK Firmware] (https://zmk.dev/) is an open source (MIT) keyboard firmware built on the [Zephyr™ Project](https://zephyrproject.org/) Real Time Operating System (RTOS). ZMK's goal is to provide a modern, wireless, and powerful firmware free of licensing issues.
