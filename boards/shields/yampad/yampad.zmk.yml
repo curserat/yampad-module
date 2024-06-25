@@ -1,0 +1,11 @@
+file_format: "1"
+id: yampad
+name: YAMPAD
+type: shield
+url: https://github.com/curserat/yampad-module
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+  - bluetooth
