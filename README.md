@@ -10,7 +10,7 @@ This repo contains all the necessary files to build the .uf2 file to flash on th
 
 [nice!nano](https://nicekeyboards.com/)
 
->Alternatives: [ProMicro NRF52840](https://github.com/joric/nrfmicro/wiki/Alternatives#supermini-nrf52840)
+- Alternatives: [ProMicro NRF52840](https://github.com/joric/nrfmicro/wiki/Alternatives#supermini-nrf52840)
 
 I went with the ProMicro NRF52840
 
